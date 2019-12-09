@@ -1,5 +1,5 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e6cf22656f6147be88ea2f35c2c4d96e)](https://www.codacy.com/manual/GladyshevD/topjava18?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GladyshevD/topjava18&amp;utm_campaign=Badge_Grade)
-https://travis-ci.org/GladyshevD/topjava18.svg?branch=master
+[![Build Status](https://travis-ci.org/GladyshevD/topjava18.svg?branch=master)](https://travis-ci.org/GladyshevD/topjava18)
 
 Java Enterprise Online Project 
 ===============================
